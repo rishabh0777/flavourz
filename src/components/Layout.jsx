@@ -3,7 +3,7 @@ import Nav from './Nav'
 
 const Layout = () => {
   return (
-    <section className="w-screen min-h-screen">
+    <section className="w-screen min-h-screen bg-[#fffafa] text-[#111]">
     <Nav />
     <Outlet />
     </section>

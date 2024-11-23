@@ -3,11 +3,11 @@ const Dashboard = () => {
   return (
     <>
     <Loader />
-    <section className="w-screen h-[91vh] relative z-[50] bg-[#fddfdd] ">
+    <section className="w-screen h-[91vh] relative z-[50] ">
       
     </section>
     </>
   )
 }
 
-export default Dashboard
+export default Dashboard;
